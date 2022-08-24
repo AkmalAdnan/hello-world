@@ -32,6 +32,8 @@
   </div>
 
    <h1> Thankyou, Happy Learning, You are doing great.Keep up the consistency. </h1>
+   <br>
+   Great Job Buddy..!!
 
   
 </form>
